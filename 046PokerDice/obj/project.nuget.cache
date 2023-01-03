@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqBaRyqk15gA8nQwlkQTpLjy1UqT2M4zoYemwEjTFLEWLRKhToGHTU+hOnkHDaZhR/AoO/D+VCfLh+Rqg2p6Hg==",
+  "success": true,
+  "projectFilePath": "c:\\HTL PRO\\046PokerDice\\046PokerDice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\almin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\almin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\almin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\HTL PRO\046PokerDice\bin\Debug\net6.0\046PokerDice.exe
+C:\HTL PRO\046PokerDice\bin\Debug\net6.0\046PokerDice.deps.json
+C:\HTL PRO\046PokerDice\bin\Debug\net6.0\046PokerDice.runtimeconfig.json
+C:\HTL PRO\046PokerDice\bin\Debug\net6.0\046PokerDice.dll
+C:\HTL PRO\046PokerDice\bin\Debug\net6.0\046PokerDice.pdb
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\046PokerDice.csproj.AssemblyReference.cache
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\046PokerDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\046PokerDice.AssemblyInfoInputs.cache
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\046PokerDice.AssemblyInfo.cs
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\046PokerDice.csproj.CoreCompileInputs.cache
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\046PokerDice.dll
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\refint\046PokerDice.dll
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\046PokerDice.pdb
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\046PokerDice.genruntimeconfig.cache
+C:\HTL PRO\046PokerDice\obj\Debug\net6.0\ref\046PokerDice.dll
